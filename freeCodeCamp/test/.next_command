@@ -57,3 +57,4 @@ ls --color=auto
 more pac
 more ./package.json
 clear
+ls --color=auto
