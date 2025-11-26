@@ -86,3 +86,4 @@ pwd
 la
 ls --color=auto
 more ./index.js
+cd ..
