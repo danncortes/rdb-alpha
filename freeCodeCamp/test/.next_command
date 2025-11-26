@@ -95,3 +95,4 @@ clear
 mkdir website
 la
 ls --color=auto
+cd website
