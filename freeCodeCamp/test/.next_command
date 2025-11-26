@@ -151,3 +151,5 @@ ls --color=auto
 cp ./header.png ./images/
 __vsc_prompt_cmd_original
 cp ./footer.jpeg ./images/
+ls --color=auto
+cd ./images/
