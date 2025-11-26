@@ -251,3 +251,16 @@ touch ./client/assets/fonts/lato-light.ttf
 find
 rmdir --help
 rm --help
+ls --color=auto
+rmdir -r ./fonts/
+rmdir ./fonts -r
+ls --color=auto
+rmdir -r ./fonts
+rmdir -- -r ./fonts
+rm --help
+rmdir -R ./fonts
+rmdir ./fonts -R
+rmdir -r ./fonts/
+rmdir -recursive ./fonts/
+rmdir --help
+rm -r ./fonts/
