@@ -221,3 +221,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 mv ./header.png ./client/assets/images/
 find -name header.png
+find -name footer.jpeg
