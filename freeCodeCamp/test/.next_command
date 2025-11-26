@@ -96,3 +96,6 @@ mkdir website
 la
 ls --color=auto
 cd website
+la
+__vsc_prompt_cmd_original
+ls --color=auto
