@@ -108,3 +108,4 @@ ls --color=auto
 rm ./intex.html
 ls --color=auto
 touch index.html
+touch styles.css
