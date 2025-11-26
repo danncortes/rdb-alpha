@@ -216,3 +216,7 @@ find
 find images
 find images
 find -name images
+la
+__vsc_prompt_cmd_original
+ls --color=auto
+mv ./header.png ./client/assets/images/
