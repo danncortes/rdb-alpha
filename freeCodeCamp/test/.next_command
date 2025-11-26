@@ -122,3 +122,8 @@ cd .
 touch background.jpg
 touch header.jpg
 touch header.png
+la
+ls --color=auto
+rm ./header.jpg
+ls --color=auto
+touch footer.jpeg
