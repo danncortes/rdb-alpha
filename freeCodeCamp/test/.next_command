@@ -99,3 +99,6 @@ cd website
 la
 __vsc_prompt_cmd_original
 ls --color=auto
+echo website
+echo 'hello website'
+echo hello website
