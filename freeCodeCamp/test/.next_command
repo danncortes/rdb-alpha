@@ -83,3 +83,5 @@ clear
 ls --color=auto
 cd src
 pwd
+la
+ls --color=auto
