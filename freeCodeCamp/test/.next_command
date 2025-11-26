@@ -127,3 +127,5 @@ ls --color=auto
 rm ./header.jpg
 ls --color=auto
 touch footer.jpeg
+ls --color=auto
+ls --color=auto
