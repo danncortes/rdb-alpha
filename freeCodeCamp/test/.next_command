@@ -228,3 +228,5 @@ ls --color=auto
 find images
 mrdir ./images/
 rmdir ./images/
+rm ./images/
+rm ./images/background.jpg
