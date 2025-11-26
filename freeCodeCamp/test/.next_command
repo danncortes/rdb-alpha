@@ -230,3 +230,4 @@ mrdir ./images/
 rmdir ./images/
 rm ./images/
 rm ./images/background.jpg
+rmdir ./images
