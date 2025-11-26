@@ -289,3 +289,5 @@ find ./website-boilerplate/
 more ./website-boilerplate/
 ls --color=auto ./website-boilerplate/
 cp --help
+ls --color=auto
+cp -r ./website-boilerplate/ ./toms-website
