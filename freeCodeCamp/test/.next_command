@@ -205,3 +205,5 @@ ls --color=auto
 cd images
 ls --color=auto
 cd ../../..
+ls --color=auto
+cd ./images/
