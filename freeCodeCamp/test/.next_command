@@ -235,3 +235,5 @@ ls --color=auto
 find ./
 mkdir icons ./client/assets/
 mkdir ./client/assets/icons
+find -name CodeAlly.svg
+mv ./CodeAlly.svg ./client/assets/icons/
