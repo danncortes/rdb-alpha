@@ -288,3 +288,4 @@ mv ./website/ ./website-boilerplate
 find ./website-boilerplate/
 more ./website-boilerplate/
 ls --color=auto ./website-boilerplate/
+cp --help
