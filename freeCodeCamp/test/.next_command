@@ -44,3 +44,11 @@ pwd
 ls --color=auto
 cd test
 pwd
+cd ..
+ls --color=auto
+pwd
+la
+ls --color=auto
+cd test
+pwd
+ls --color=auto
